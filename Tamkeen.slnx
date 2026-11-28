@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/Tamkeen.API.Tests/Tamkeen.API.Tests.csproj" />
+    <Project Path="backend/Tamkeen.API/Tamkeen.API.csproj" />
+  </Folder>
+</Solution>
